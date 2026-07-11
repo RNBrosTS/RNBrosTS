@@ -144,8 +144,8 @@
 ### 📈 &nbsp;Contribution Activity Graph
 
 <div align="center">
-  <a href="https://github.com/RNBrosTS">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RNBrosTS&bg_color=0D1117&color=39FF14&line=A83232&point=A855F7&area=true&hide_border=true&custom_title=Contribution+Graph" alt="activity graph" width="100%" />
+  <a href="https://github.com/aratik1997">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aratik1997&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=A855F7&area=true&hide_border=true&custom_title=Contribution+Graph" alt="activity graph" width="100%" />
   </a>
 </div>
 
