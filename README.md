@@ -1,7 +1,9 @@
-# Hi there, I'm RNBrosTS 👋 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnandChowdhary/vibe-check/main/assets/banner.png" alt="RNBrosTS Banner" width="100%" />
+</p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A83232&width=435&lines=My+code+is+my+attitude.;Game+Developer;AI+Innovator;Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&width=435&lines=My+coding+is+my+Attitude.;Game+Developer;AI+Innovator;Software+Engineer" alt="Typing SVG" />
 </p>
 
 ---
