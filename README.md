@@ -167,21 +167,20 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RNBrosTS/RNBrosTS/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RNBrosTS/RNBrosTS/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/RNBrosTS/RNBrosTS/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aratik1997/aratik1997/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aratik1997/aratik1997/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/aratik1997/aratik1997/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
 <br />
 
-<!-- =============== SEPARATOR =============== -->
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-4feb3dfbd3fb.gif" width="100%" alt="separator" />
 </div>
 
-<!-- =============== FEATURED PROJECTS =============== -->
+<!-- =============== SKILLS PROGRESS =============== -->
+
 
 ## 📌 &nbsp;Featured Projects
 
