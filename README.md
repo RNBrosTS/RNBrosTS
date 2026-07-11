@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://github.com/RNBrosTS">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=1056c7&center=true&vCenter=true&multiline=false&width=780&height=60&lines=My+coding+is+my+Attitude.;Game+Developer;AI+Innovator;Software+Engineer" alt="typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=1056c7&center=true&vCenter=true&multiline=false&width=780&height=60&lines=My+coding+is+my+Attitude;Failure+makes+your+success+brighter;Believe+Persistence+Effort;Every+second+is+innovative+if+you+script+it" alt="typing SVG" />
   </a>
 </div>
 
